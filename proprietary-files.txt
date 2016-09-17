@@ -1,0 +1,34 @@
+# Audio
+etc/acdbdata/Bluetooth_cal.acdb
+etc/acdbdata/General_cal.acdb
+etc/acdbdata/Global_cal.acdb
+etc/acdbdata/Handset_cal.acdb
+etc/acdbdata/Hdmi_cal.acdb
+etc/acdbdata/Headset_cal.acdb
+etc/acdbdata/Speaker_cal.acdb
+vendor/lib/libacdbloader.so
+vendor/lib/libacdbrtac.so
+vendor/lib/libadiertac.so
+vendor/lib/libaudcal.so
+
+# Radio
+bin/rfs_access
+bin/rmt_storage
+lib/libuicc.so
+lib/libvss_common_idl.so
+lib/libvss_common_iface.so
+lib/libvss_nv_idl.so
+lib/libvss_nv_iface.so
+vendor/lib/libcneapiclient.so
+
+# Sensors
+etc/sensors/sensor_def_variable.conf
+
+# Venus (media) firmware
+etc/firmware/venus.b00
+etc/firmware/venus.b01
+etc/firmware/venus.b02
+etc/firmware/venus.b03
+etc/firmware/venus.b04
+etc/firmware/venus.mbn
+etc/firmware/venus.mdt
