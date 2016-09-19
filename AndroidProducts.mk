@@ -15,3 +15,4 @@
 
 PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/aosp_d855.mk
+    $(LOCAL_DIR)/du.mk
